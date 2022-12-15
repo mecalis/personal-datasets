@@ -16,8 +16,7 @@ During taking pictures 3 different backgrounds has been used:
 - floor
 
 Example pictures:
-![Cow](/examples/cow_01.jpg "COW")
 <img src="/examples/cow_01.jpg" width="200">
-![Fox](/examples/fox_08.jpg "FOX")
-![Lama](/examples/lama_09.jpg "LAMA")
+<img src="/examples/fox_08.jpg" width="200">
+<img src="/examples/lama_09.jpg" width="200">
 
