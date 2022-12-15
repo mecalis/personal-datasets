@@ -19,6 +19,4 @@ Example pictures:
 ![Cow](/examples/cow_01.jpg "COW")
 ![Fox](/examples/fox_08.jpg "FOX")
 ![Lama](/examples/lama_09.jpg "LAMA")
-/examples/cow_01.jpg
-/examples/fox_08.jpg
-/examples/lama_09.jpg
+
